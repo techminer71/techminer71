@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Techminer/30-nites-of-code)  
-  ![@Techminer #30NitesOfCode](https://www.codedex.io/api/
+[Check out my progress!](https://www.codedex.io/@Techminer/30-nites-of-code)  
+![@Techminer #30NitesOfCode](https://www.codedex.io/api/
