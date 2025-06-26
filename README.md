@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6787d5b198c00f71174983b6?variant=dark&roadmaps=devops%3Fr%3Ddevops-beginner%2Clinux%2Cpython" alt="roadmap.sh"/></a>
 ## #30NitesOfCode:
 [Check out my progress!](https://www.codedex.io/@Techminer/30-nites-of-code)  
 ![@Techminer #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Techminer)
