@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Welcome to Uncle Carl's Garage Basement Ultimate Thumb-Wrestling Championship: Final Match Edition
 <!--
 **techminer71/techminer71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
